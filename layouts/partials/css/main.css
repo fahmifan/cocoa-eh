@@ -160,6 +160,12 @@ div.header .container .logo {
   max-width: 100px;
   margin-left: -2em;
 }
+
+.logo {
+  width: 100px;
+  padding: 8px;
+}
+
 div.header .name {
   padding-top: 20px;
   font-size: 28px;
